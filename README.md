@@ -1,10 +1,8 @@
-
-
-<h1 align="center">Hey 👋, I'm Sharad</h1>
-<h3 align="center">🧠 AI Developer | 🧑‍💻 Full Stack Dev | 🚀 Self-Taught Coder</h3>
+<h1 align="center" style="color:#58A6FF;">Hey 👋, I'm Sharad</h1>
+<h3 align="center" style="color:#C9D1D9;">🧠 AI Developer | 🧑‍💻 Full Stack Dev | 🚀 Self-Taught Coder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Enthusiast;Python+Lover;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Enthusiast;Python+Lover;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ---
@@ -43,8 +41,8 @@
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300"/>
 </p>
 
-> 🧠 Security and Defense system 
-> 📱 E-wallet App   
+> 🧠 Security and Defense system using AI  
+> 📱 E-wallet App  
 > 💼 POS System  
 > 💡 More exciting projects coming soon...
 
@@ -54,13 +52,13 @@
 
 <p align="center">
   <a href="https://www.instagram.com/your_insta" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
   </a>
   <a href="https://www.facebook.com/your_fb" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-111111?style=for-the-badge&logo=facebook&logoColor=1877F2"/>
   </a>
   <a href="https://www.linkedin.com/in/your_linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0077B5"/>
   </a>
 </p>
 
@@ -79,4 +77,4 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazI1dDVjdnhubTFzcXZwZmhmZmJ1MGw3aDJydjZsa2h3YnFoM2FjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" />
 </p>
 
-<p align="center"><b>Appreciate you visiting my profile!🙏 <br> Let’s connect and turn great ideas into reality. 🚀</b></p>
+<p align="center"><b style="color:#C9D1D9;">Appreciate you visiting my profile! 🙏<br> Let’s connect and turn great ideas into reality. 🚀</b></p>
