@@ -20,7 +20,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,js,react,nodejs,express,mongodb,mysql,git,github,html,css,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,django,js,C,mongodb,mysql,git,github,html,css,vscode,linux" />
 </p>
 
 ---
@@ -28,9 +28,9 @@
 ### ⚡ GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Blury-face&show_icons=true&theme=tokyonight&hide_border=true" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blury-face&theme=tokyonight&hide_border=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blury-face&layout=compact&theme=tokyonight&hide_border=true" height="170px"/>
 </div>
 
 ---
